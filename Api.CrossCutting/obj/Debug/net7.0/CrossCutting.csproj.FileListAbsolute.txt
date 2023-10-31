@@ -1,0 +1,38 @@
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\CrossCutting.deps.json
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\CrossCutting.dll
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\CrossCutting.pdb
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Data.dll
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Domain.dll
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Service.dll
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Domain.pdb
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Service.pdb
+C:\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Data.pdb
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.csproj.AssemblyReference.cache
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.AssemblyInfoInputs.cache
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.AssemblyInfo.cs
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.csproj.CoreCompileInputs.cache
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.csproj.CopyComplete
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.dll
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\refint\CrossCutting.dll
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.pdb
+C:\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\ref\CrossCutting.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\CrossCutting.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\CrossCutting.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\CrossCutting.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Data.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Service.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Domain.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Service.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\bin\Debug\net7.0\Data.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.csproj.CopyComplete
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\refint\CrossCutting.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\CrossCutting.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\projeto_api_documentado\projeto_api\src\Api.CrossCutting\obj\Debug\net7.0\ref\CrossCutting.dll
