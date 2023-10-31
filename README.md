@@ -53,7 +53,7 @@ Ou navegue até Api.Application e após isso execute o comando:
 * dotnet run
 
 ## Banco de dados:
-Utilizar o Entity Framework (pasta Migrations no projeto Api.Data)
+Utilizar o Entity Framework (projeto Api.Data) e execute os comando conforme exemplos.
 Exemplo:
  * dotnet ef migrations add ApiMigration
  * dotnet ef database update
