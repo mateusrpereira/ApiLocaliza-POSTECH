@@ -33,8 +33,11 @@ O CEP não será validado em um cadastro prévio no momento inicial, mas a funci
 
 ## Execução:
 Abra a solução (Api.sln), preferencialmente, na versão 2022 ou posterior do Microsoft Visual Studio
+
 Restaure os pacotes dos projetos
+
 Altere a string de conexão (connectionString) da base de dados (projeto_api\src\Api.Data\Context\ContextFactory.cs) e (projeto_api\src\Api.CrossCutting\DependencyInjection\ConfigureRepository.cs)
+
 Rode o projeto
 
 Caso utilize o VSCode para rodar o projeto e se depare com a mensagem:
