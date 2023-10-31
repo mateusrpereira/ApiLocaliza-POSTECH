@@ -60,7 +60,9 @@ Exemplo:
  * dotnet ef database update
 
 Obs.: Caso tenha algum retorno de mensagem conforme abaixo:
+
 Não foi possível executar porque o comando ou o arquivo especificado não foi encontrado.
+
 Possíveis motivos para isso incluem:
 * Você digitou incorretamente um comando de dotnet interno.
 * Você pretendia executar um programa .NET, mas dotnet-ef não existe.
