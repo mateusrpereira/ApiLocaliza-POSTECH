@@ -17,9 +17,12 @@ Os endpoints de buscas por Municípios devem ocorrer pelo seu código (ID) de fo
 Disponiblizar endpoints para inclusão, alteração, exclusão e busca por id e pelo CEP.
 
 ## Critérios de aceite:
+Para uso da aplicação, o usuário deverá criar um cadastro em:
+Users / POST /api/Users
 O usuário deverá informar seu nome com tamanho máximo de 60 cacacteres e um e-mail em formato válido, contendo no máximo 100 caracteres.
 
-Para efetuar login, o usuário deverá informar seu e-mail cadastrado, após isso, deverá informar a palavra Bearer seguido do Token gerado no botão de autorização.
+Após isso, deverá efetuar login:
+O usuário deverá informar seu e-mail cadastrado, após isso, deverá informar a palavra Bearer seguido do Token gerado no botão de autorização.
 
 Ao se criar um município, deverá ser informado um nome com no máximo 60 caracteres e o código da UF.
 
@@ -44,15 +47,15 @@ dotnet run
 ## Banco de dados:
 Utilizar o Entity Framework (pasta Migrations no projeto Api.Data)
 Exemplo:
-    * dotnet ef migrations add ApiMigration
-    * dotnet ef database update
+ * dotnet ef migrations add ApiMigration
+ * dotnet ef database update
 
 Obs.: Caso tenha algum retorno de mensagem conforme abaixo:
 Não foi possível executar porque o comando ou o arquivo especificado não foi encontrado.
 Possíveis motivos para isso incluem:
-  * Você digitou incorretamente um comando de dotnet interno.
-  * Você pretendia executar um programa .NET, mas dotnet-ef não existe.
-  * Você pretendia executar uma ferramenta global, mas não foi possível encontrar um executável com prefixo de dotnet com esse nome no CAMINHO.
+* Você digitou incorretamente um comando de dotnet interno.
+* Você pretendia executar um programa .NET, mas dotnet-ef não existe.
+* Você pretendia executar uma ferramenta global, mas não foi possível encontrar um executável com prefixo de dotnet com esse nome no CAMINHO.
  
 Execute: 
 dotnet tool install --global dotnet-ef
