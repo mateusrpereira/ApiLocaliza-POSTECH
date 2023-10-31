@@ -41,12 +41,16 @@ Altere a string de conexão (connectionString) da base de dados (projeto_api\src
 Rode o projeto
 
 Caso utilize o VSCode para rodar o projeto e se depare com a mensagem:
+
 "Não foi possível localizar um projeto para executar. Verifique se existe um projeto em C:\projeto_api\src ou passe o caminho para o projeto usando --project."
+
 Utilize o comando conforme exemplo abaixo: 
-dotnet run --project C:\projeto_api\src\Api.Application
+
+* dotnet run --project C:\projeto_api\src\Api.Application
 
 Ou navegue até Api.Application e após isso execute o comando:
-dotnet run
+
+* dotnet run
 
 ## Banco de dados:
 Utilizar o Entity Framework (pasta Migrations no projeto Api.Data)
