@@ -19,6 +19,7 @@ Disponiblizar endpoints para inclusão, alteração, exclusão e busca por id e 
 ## Critérios de aceite:
 Para uso da aplicação, o usuário deverá criar um cadastro em:
 Users / POST /api/Users
+
 O usuário deverá informar seu nome com tamanho máximo de 60 cacacteres e um e-mail em formato válido, contendo no máximo 100 caracteres.
 
 Após isso, deverá efetuar login:
