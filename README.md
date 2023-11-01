@@ -23,6 +23,7 @@ Users / POST /api/Users
 O usuário deverá informar seu nome com tamanho máximo de 60 caracteres e um e-mail em formato válido, contendo no máximo 100 caracteres.
 
 Após isso, deverá gerar o Token (Login / POST /api/Login):
+
 O usuário deverá informar seu e-mail cadastrado, copiar o Token.
 
 Após isso, clicar no botão de autorização(Authorize) informar a palavra Bearer seguido do Token gerado.
