@@ -22,8 +22,10 @@ Users / POST /api/Users
 
 O usuário deverá informar seu nome com tamanho máximo de 60 caracteres e um e-mail em formato válido, contendo no máximo 100 caracteres.
 
-Após isso, deverá efetuar login:
-O usuário deverá informar seu e-mail cadastrado, após isso, deverá informar a palavra Bearer seguido do Token gerado no botão de autorização.
+Após isso, deverá gerar o Token (Login / POST /api/Login):
+O usuário deverá informar seu e-mail cadastrado, copiar o Token.
+
+Após isso, clicar no botão de autorização(Authorize) informar a palavra Bearer seguido do Token gerado.
 
 Ao se criar um município, deverá ser informado um nome com no máximo 60 caracteres e o código da UF.
 
