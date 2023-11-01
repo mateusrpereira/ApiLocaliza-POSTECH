@@ -7,20 +7,20 @@ TECH-CHALLENGE ApiLocaliza desenvolvida na Fase 1 da POSTECH Arquitetura de Sist
 ## Requisitos:
 Disponibilizar endpoints para inclusão, alteração, busca geral/busca por id e exclusão de Usuários para que possam efetuar login na aplicação.
 
-Disponibiliar endpoints de Login para que o usuário cadastrado possa realizar autenticação utilizando seu e-mail e token gerado para autorização na utilização dos recursos disponíveis na aplicação.
+Disponibilizar endpoints de Login para que o usuário cadastrado possa realizar autenticação utilizando seu e-mail e token gerado para autorização na utilização dos recursos disponíveis na aplicação.
 
 Disponibilizar endpoints para listar as Unidades Federativas (UFs), inclusive pelo seu código.
 
-Disponiblizar endpoints para inclusão, alteração, exclusão de Municípios em suas respectivas UFs.
+Disponibilizar endpoints para inclusão, alteração, exclusão de Municípios em suas respectivas UFs.
 Os endpoints de buscas por Municípios devem ocorrer pelo seu código (ID) de forma simplificada e completa, como também pelo código do IBGE.
 
-Disponiblizar endpoints para inclusão, alteração, exclusão e busca por id e pelo CEP.
+Disponibilizar endpoints para inclusão, alteração, exclusão e busca por id e pelo CEP.
 
 ## Critérios de aceite:
 Para uso da aplicação, o usuário deverá criar um cadastro em:
 Users / POST /api/Users
 
-O usuário deverá informar seu nome com tamanho máximo de 60 cacacteres e um e-mail em formato válido, contendo no máximo 100 caracteres.
+O usuário deverá informar seu nome com tamanho máximo de 60 caracteres e um e-mail em formato válido, contendo no máximo 100 caracteres.
 
 Após isso, deverá efetuar login:
 O usuário deverá informar seu e-mail cadastrado, após isso, deverá informar a palavra Bearer seguido do Token gerado no botão de autorização.
@@ -38,7 +38,7 @@ Restaure os pacotes dos projetos
 
 Altere a string de conexão (connectionString) da base de dados (projeto_api\src\Api.Data\Context\ContextFactory.cs) e (projeto_api\src\Api.CrossCutting\DependencyInjection\ConfigureRepository.cs)
 
-Rode o projeto
+Execute o projeto
 
 Caso utilize o VSCode para rodar o projeto e se depare com a mensagem:
 
@@ -53,7 +53,7 @@ Ou navegue até Api.Application e após isso execute o comando:
 * dotnet run
 
 ## Banco de dados:
-Utilizar o Entity Framework (projeto Api.Data) e execute os comando conforme exemplos.
+Utilizar o Entity Framework (projeto Api.Data) e execute os comandos conforme exemplos.
 
 Exemplo:
  * dotnet ef migrations add ApiMigration
@@ -70,5 +70,3 @@ Possíveis motivos para isso incluem:
  
 Execute: 
 dotnet tool install --global dotnet-ef
-
-
